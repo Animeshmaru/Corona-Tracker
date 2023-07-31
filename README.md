@@ -1,12 +1,14 @@
 # Screenshots
 ![Screenshot (1)](https://github.com/Animeshmaru/Corona-Tracker/assets/77394228/b6e83c78-ace8-4d3f-bcb5-666da6e8983b)
-![Screenshot (332)](https://github.com/Animeshmaru/Corona-Tracker/assets/77394228/74bf08e8-645d-4ac1-a3ef-3a50e4f996bc)
-![Uploading Screenshot (2).png…]()
-![Uploading Screenshot (3).png…]()
-![Uploading Screenshot (4).png…]()
-![Uploading Screenshot (5).png…]()
+![Screenshot (2)](https://github.com/Animeshmaru/Corona-Tracker/assets/77394228/66ff36d6-825b-4463-bd08-d4caa4d59be6)
+![Screenshot (3)](https://github.com/Animeshmaru/Corona-Tracker/assets/77394228/141d143a-b7b0-4078-909a-7157b225d99d)
+![Screenshot (4)](https://github.com/Animeshmaru/Corona-Tracker/assets/77394228/a067feb9-4cbd-410e-8166-596f3f513a37)
+![Screenshot (5)](https://github.com/Animeshmaru/Corona-Tracker/assets/77394228/0b83c51b-1442-4ceb-b2c2-6e91c78be918)
+
+
 
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
