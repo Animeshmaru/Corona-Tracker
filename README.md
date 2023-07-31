@@ -1,5 +1,10 @@
 # Screenshots
 ![Screenshot (1)](https://github.com/Animeshmaru/Corona-Tracker/assets/77394228/b6e83c78-ace8-4d3f-bcb5-666da6e8983b)
+![Screenshot (332)](https://github.com/Animeshmaru/Corona-Tracker/assets/77394228/74bf08e8-645d-4ac1-a3ef-3a50e4f996bc)
+![Uploading Screenshot (2).png…]()
+![Uploading Screenshot (3).png…]()
+![Uploading Screenshot (4).png…]()
+![Uploading Screenshot (5).png…]()
 
 # Getting Started with Create React App
 
@@ -10,6 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
