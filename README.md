@@ -1,3 +1,6 @@
+# Screenshots
+![Screenshot (1)](https://github.com/Animeshmaru/Corona-Tracker/assets/77394228/b6e83c78-ace8-4d3f-bcb5-666da6e8983b)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
